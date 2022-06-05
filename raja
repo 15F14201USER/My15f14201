@@ -1,0 +1,15 @@
+hi my name is rajaa
+my id 15f14201
+this is my project 
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+}
